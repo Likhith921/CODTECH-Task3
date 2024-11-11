@@ -142,7 +142,7 @@ window.deletePost = deletePost;
 if (posts.length === 0) {
   const samplePost = {
     id: Date.now(),
-    title: "Welcome to My Blog",
+    title: "Welcome to Smart Blogging",
     content: "This is a simple blog platform built with HTML, CSS, and JavaScript. Click the 'New Post' button to create your first blog post!",
     date: new Date().toLocaleDateString('en-US', {
       year: 'numeric',
