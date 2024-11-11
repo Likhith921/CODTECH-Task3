@@ -28,7 +28,7 @@ The Smart Blogging project is a web-based blogging application designed for user
    
 5. **Dynamic Content Display**: Posts are dynamically managed through JavaScript, allowing users to interact with and view content without requiring a page refresh.
 
-###Sample Pictures:
+### Sample Pictures:
 
 ![Screenshot 2024-11-11 172600](https://github.com/user-attachments/assets/c5f84af0-0e81-4300-9c74-9f2c6149818e)
 ![Screenshot 2024-11-11 172520](https://github.com/user-attachments/assets/176bcd4a-7f89-4585-be64-a5bc86a08cb3)
